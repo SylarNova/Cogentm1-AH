@@ -175,7 +175,7 @@ public class mock1_2 {
 	}
 //	Create a Java program to manage employees with functionalities to add, remove, and display employee details.
 	public static class Employee{
-		private String name;
+		private String details;
 
 		public Employee(String details) {
 			this.details = details;
